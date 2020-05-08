@@ -3,35 +3,38 @@ Almay
 Armani
 Astor
 Anastasia Beverly Hills
-ABH
+ABH,Anastasia Beverly Hills
 Duwop
 Glow Recipe
 Aqua Net
 Buxom
 Avon Products
+Avon,Avon Products
 Bain de Soleil
 Bajaj Consumer Care
 Balmshell
 Barefaced Chic
 Bayankala
 Zuii Organic
+Zuii,Zuii Organic
 Bareminerals
 Becca
 Besame
 Beautycounter
 Benefit Cosmetics
+Benefit,Benefit Cosmetics
 Bellapierre
-Bourjois
+Bourjois,Bourjois Paris
 Biotherm
 BITE Beauty
-Bite
+Bite,BITE Beauty
 Bondi Sands
-Boots
-O Boticário
+Boot
+O Boticário,
 Bobbi Brown
 Bourjois Paris
 Burt's Bees
-Burts Bees
+Burts Bees,Burt's Bees
 Burberry
 Cativa Natureza
 Candy Girl
@@ -44,9 +47,9 @@ Clarins
 Ciate
 Clinique
 ColourPop Cosmetics
-Colourpop
+Colourpop,ColourPop Cosmetics
 Coppertone
-CoverGirl
+CoverGirl,Covergirl
 Crème Simon
 Cristtee
 Cutex
@@ -54,14 +57,14 @@ Charlotte Tilbury
 Disney
 DC Cosmetics
 Dolce & Gabbana
-D&G
+D&G,Dolce & Gabbana
 Dr Lewinns
 DHC Corporation
 Douglas Holding
 Elf
 Elizabeth Arden
 Essie
-Estee Lauder
+Estee Lauder,Estée Lauder
 Estée Lauder
 Etude House
 Fabergé
@@ -96,6 +99,7 @@ Cate McNabb
 Fairy Girl
 Shiro
 Fenty Beauty
+Fenty,Fenty Beauty
 Concrete Minerals
 Girlactik
 Forest Essentials
@@ -147,8 +151,10 @@ Kjaer Weis
 ILIA
 Barry M
 Halo Beauty
+Halo,Halo Beauty
 Pacifica
 Haus Laboratories
+Haus,Haus Laboratories
 Hard Candy
 Wet n Wild
 Japonesque
@@ -166,6 +172,7 @@ Korres
 Lilah B.
 Max Factor
 Huda Beauty
+Huda,Huda Beauty
 LA Girl
 Kryolan
 Linda Hallberg
@@ -176,12 +183,14 @@ Miss Sporty
 Imedeen
 IT Cosmetics
 Inglot Cosmetics
+Inglot,Inglot Cosmetics
 Illamasqua
 Inoherb
 IsaDora cosmetics
 Jaclyn Hill Cosmetics
+Jaclyn Hill,Jaclyn Hill Cosmetics
 Jeffree Star Cosmetics
-Jeffree Star
+Jeffree Star,Jeffree Star Cosmetics
 Jouer
 Juvia’s Place
 Jo Malone London
@@ -192,22 +201,27 @@ Lip Smacker
 KKW Beauty
 Lotta Luv Beauty
 Kylie Cosmetics
+Kylie,Kylie Cosmetics
 Kat Von D
+KVD,Kat Von D
 Josie Maran
 Lakmé Cosmetics
 Lancôme
-Lancome
+Lancome,Lancôme
 L'Oreal Paris
-L'Oreal
+L'Oreal,L'Oreal Paris
 LashXLR8
-Laura Mercier Cosmetics
+Laura Mercier Cosmetics,
+Laura Mercier,Laura Mercier Cosmetics
 Lime Crime
 Palladio
 Lierac Paris
 Pupa Milano
+Pupa,Pupa Milano
 Thrive Causemetics
+Thrive,Thrive Causemetics
 Sleek
-Stargazer
+Stargazer,
 Wander Beauty
 Lierac
 Lubriderm
@@ -216,38 +230,44 @@ Nude by Nature
 Mehron
 Lunar Beauty
 MAC Cosmetics
+MAC,MAC Cosmetics
 Madara Cosmetics
 Nabla Cosmetics
+Nabla,Nabla Cosmetics
 Madison Reed
 Mandom
 Maybelline
 Marc Jacobs Beauty
-Marc Jacobs
+Marc Jacobs,Marc Jacobs Beauty
 Milk Makeup
 Max Factor
 NARS Cosmetics
+NARS,NARS Cosmetics
 Natura & Co
 Natural Wonder
 Neutrogena
 New York NailCare
 No. 7
 NYX Professional Makeup
+NYX,NYX Professional Makeup
 NYC New York Color
+NYC,NYC New York Color
 OPI Products
-OPI
+OPI,OPI Products
 OCC
 Q-KI
 Origins
 Parachute
-Pat McGrath 
+Pat McGrath
 Pechoin
 Playboy
 Princess Pat
 Pur Cosmetics
+Pur,Pur Cosmetics
 Rimmel
 Revlon
 Royal Cosmetics
-Sa Sa International Holdings
+Sa Sa International Holdings,
 Schwan-Stabilo
 Sally Hansen
 Shanghai Vive
@@ -262,7 +282,7 @@ Stella McCartney
 Surya Brasil
 Tarte Cosmetics
 Blinc
-Tarte
+Tarte,Tarte Cosmetics
 Too Faced
 Tati Beauty
 The Royal Horticultural Society
@@ -279,5 +299,5 @@ The Body Shop
 W7
 Urban Decay
 Yves Saint Laurent
-YSL
+YSL,Yves Saint Laurent
 Perfekt

@@ -1,55 +1,57 @@
-tutorial
-look
-routine
-grwm
-favourite
-hair
-q&a
-chit
-vlog
-holiday
-christmas
-halloween
-review
-reveal
-revealing
-launch
-tik
-instagram
-youtube
-facebook
-pinterest
-luxury
-brand
-emotion
-emotions
-drama
-impression
-reaction
-reacting
-comments
-sorry
-storytime
-house tour
-room tour
-bag
-bags
-vegan
-cruelty-free
-cheap
-challenge
-twitter
-approve
-approved
-foundation
-lipstick
-palette
-eyeshadow
-primer
-highlighter
-blush
-bronzer
-mascara
-lashes
-lipgloss
-launching
+tutorial,tutorial
+look,tutorial
+routine,private life/information
+grwm,get ready with me 
+get ready with me,get ready with me
+favourite,favourites
+hair,hair
+q&a,private life/information
+chit chat,private life/information
+vlog,private life/information
+holiday,tutorial
+christmas,tutorial
+halloween,tutorial
+review,review
+how to,tutorial
+reveal,new product launch
+revealing,new product launch
+launch,new product launch 
+tik tok,social media
+tik toks,social media
+instagram,social media
+youtube,social media
+facebook,social media
+pinterest,social media
+luxury,luxury
+emotion,private life/information
+emotions,private life/information
+drama,private life/information
+impression,review
+reaction,review
+reacting,review
+comments,social media
+sorry,private life/information
+storytime,private life/information
+house tour,private life/information
+room tour,private life/information
+bag,fashion
+bags,fashion
+vegan,vegan
+cruelty-free,cruelty-free
+cheap,cheap
+challenge,challenge
+twitter,social media
+approve,review
+approved,review
+foundation,review
+lipstick,review
+palette,review
+eyeshadow,review
+primer,review
+highlighter,review
+blush,review
+bronzer,review
+mascara,review
+lashes,review
+lipgloss,review
+launching,new product launch
